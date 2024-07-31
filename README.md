@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js, React.js, Next.js, PHP, MySQL, MongoDB, PGSQL<br>👯 I’m looking to collaborate on projects based on the same technologies<br>🤝 I'm looking for help with AI<br>🌱 I’m currently learning Python<br>💬 Ask me about web development<br>⚡ Fun fact:  To watch sci-fi movies like Avengers
+🔭 I’m currently working on Node.js, React.js, Next.js, PHP, Python, MySQL, MongoDB, PGSQL<br>👯 I’m looking to collaborate on projects based on the same technologies<br>🤝 I'm looking for help with AI<br>🌱 I’m currently learning Python<br>💬 Ask me about web development<br>⚡ Fun fact:  To watch sci-fi movies like Avengers
 
 
 ## 🌐 Socials:
